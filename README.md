@@ -51,4 +51,21 @@ Decision boundary plots and accuracy comparisons are included in the notebook.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
+mlp-depth-vs-width/
+│
+├── mlp_depth_vs_width.ipynb # Main notebook
+├── tutorial.pdf # Tutorial report (1500 words)
+├── README.md # Project documentation
+├── requirements.txt # Dependencies
+└── LICENSE # License information
+
+
+---
+
+## Installation & Setup
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/mlp-depth-vs-width.git
+cd mlp-depth-vs-width
